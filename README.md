@@ -17,7 +17,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/juliocs50/Hangman
+git clone [https://github.com/juliocs50/Hangman](https://github.com/juliocs50/Hangman.git)
 Open in Unity:
 
 Open Unity Hub and add the project by selecting the cloned folder.
